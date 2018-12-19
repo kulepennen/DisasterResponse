@@ -1,3 +1,6 @@
+#File provided as part of training material at Udacity for other project. 
+#Used to instruct workspace to extend session for long running jobs
+
 import signal
 
 from contextlib import contextmanager
